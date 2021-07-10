@@ -1,0 +1,15 @@
+{
+    "name": "macbookpro/writen-again-composer",
+    "autoload": {
+        "psr-4": {
+            "Macbookpro\\WritenAgainComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luat",
+            "email": "nguyen-ngoc-luat@datanext.co.jp"
+        }
+    ],
+    "require": {}
+}
