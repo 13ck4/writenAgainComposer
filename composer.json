@@ -11,5 +11,7 @@
             "email": "nguyen-ngoc-luat@datanext.co.jp"
         }
     ],
-    "require": {}
+    "require": {
+        "composer-runtime-api": "^2.0"
+    }
 }
